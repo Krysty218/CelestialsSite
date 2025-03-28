@@ -1,1 +1,2 @@
 Hugo site
+yes
