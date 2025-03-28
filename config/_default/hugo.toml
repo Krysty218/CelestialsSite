@@ -1,7 +1,7 @@
 # Site Configuration
 
 theme = "blowfish"
-baseURL = "https://celestials-site.vercel.app/"
+baseURL = "https://the-celestials-realm.vercel.app/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
