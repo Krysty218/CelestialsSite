@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on The Celestials</title>
+    <link>//localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on The Celestials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Krysty</copyright>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building The Celestials&#39; Hugo Site</title>
+      <link>//localhost:1313/blog/project/sample/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/project/sample/</guid>
+      <description>A deep dive into how I built our Hugo site from scratch, customizing the Blowfish Lowkey theme, structuring content, and tweaking the UI.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/project/sample/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

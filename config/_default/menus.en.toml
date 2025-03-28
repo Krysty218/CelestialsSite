@@ -1,0 +1,74 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters: name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration:
+#   name = The name displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default, the menu is ordered alphabetically unless weight is provided.
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "The Odyssey"
+  pageRef = "blog"
+  weight = 10
+
+  [[main]]
+    name = "Furnace"
+    pageRef = "blog/project"
+    parent = "The Odyssey"
+    weight = 11
+
+  [[main]]
+    name = "Memento"
+    pageRef = "blog/personal"
+    parent = "The Odyssey"
+    weight = 12
+
+  [[main]]
+    name = "Misc"
+    pageRef = "blog/misc"
+    parent = "The Odyssey"
+    weight = 13
+
+[[main]]
+  name = "The Forge"
+  pageRef = "showcase"
+  weight = 20
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
+
+#[[main]]
+#  identifier = "web"
+#  pre = "link"
+#  url = "https://nunocoracao.github.io/blowfish/"
+#  weight = 40
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page.
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+
+[[footer]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Krysty218"
+  weight = 50
+
+[[footer]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/the.__celestials_"
+  weight = 60
