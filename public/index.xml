@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Celestials</title><link>/</link><description>Recent content on The Celestials</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Krysty</copyright><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Crafting the Celestials' Realm</title><link>/blog/project/hugo-site-blog/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>/blog/project/hugo-site-blog/</guid><description>A deep dive into how we built The Celestials&amp;rsquo; website using Hugo and Blowfish Lowkey, the challenges we faced, and the lessons learned along the way.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/blog/project/hugo-site-blog/cover.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Celestials</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on The Celestials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Krysty</copyright>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crafting the Celestials&#39; Realm</title>
+      <link>//localhost:1313/blog/project/hugo-site-blog/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/project/hugo-site-blog/</guid>
+      <description>A deep dive into how we built The Celestials&amp;rsquo; website using Hugo and Blowfish Lowkey, the challenges we faced, and the lessons learned along the way.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/project/hugo-site-blog/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
