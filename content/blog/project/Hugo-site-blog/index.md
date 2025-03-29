@@ -44,3 +44,6 @@ First deploy? Crashed. Hugo version mismatch.
 
 ## **What’s Next?**  
 The site is up, but we’re not done. Next, we’re **refining the design, enhancing navigation, and maybe adding search functionality.** If you’re thinking about using Hugo + Blowfish, go for it—just be ready to break and remake things along the way.  
+
+
+zehahahaha

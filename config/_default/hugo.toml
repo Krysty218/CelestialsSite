@@ -1,7 +1,7 @@
 # Site Configuration
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://the-celestials-realm.vercel.app/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -25,6 +25,7 @@ enableEmoji = true
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
